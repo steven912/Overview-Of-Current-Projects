@@ -19,11 +19,11 @@ A visual tour of the current projects I'm working on.
 
   I made this for Intro to Gamedev's second prototype project. I aimed to make a simple, fun, and quick mobile game that the user could pick up and put down easily. I think I achieved that goal, as all the reviews I got from friends and family were similar to that aim (without me letting them know what my goal was).
 
-Influences:
+### Influences:
 
   - the 'Pokio' bird capture from Super Mario Odyssey
 
-Next Steps:
+### Next Steps:
 
   - Polishing and fleshing out gameplay features
   - Working with an artist to develop a polished aesthetic
