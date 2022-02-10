@@ -35,7 +35,7 @@ A visual tour of the current projects I'm working on.
 ### Status: On Hold
 
 
-<img src="https://user-images.githubusercontent.com/27746512/153467565-c59bde20-95da-42ce-bc00-401d9695aa4c.gif" width="20%" height="20%"/>
+<img src="https://user-images.githubusercontent.com/27746512/153467565-c59bde20-95da-42ce-bc00-401d9695aa4c.gif" width="60%" height="60%"/>
 
 ### How to Play:
 
