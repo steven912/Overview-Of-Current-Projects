@@ -3,18 +3,18 @@ A visual tour of the current projects I'm working on.
 
 < pokemon go clone >
 
-<bug wars>
+< bug wars >
 
-<IPS>
+< IPS >
 
-<shape escape>
+< shape escape >
 
-<wemm wrangler>
+< wemm wrangler >
 
-<FTL clone>
+< FTL clone >
 
-<Through the Page>
+< Through the Page >
   
-<StormBringer>
+< StormBringer >
   
-<ProS?>
+< ProS? >
