@@ -3,14 +3,11 @@ A visual tour of the current projects I'm working on.
 
 < pokemon go clone >
 
-![customScroll](https://user-images.githubusercontent.com/27746512/153491161-f1a6e3ee-f5e5-4d6a-9634-dab2abedb1a9.gif)
-<img src="https://user-images.githubusercontent.com/27746512/153491161-f1a6e3ee-f5e5-4d6a-9634-dab2abedb1a9.gif" width="20%" height="20%"/>
-
 
 ## Untitled Pokemon GO Clone
 ### Status: Super Early Prototype
 
-![customScroll](https://user-images.githubusercontent.com/27746512/153491161-f1a6e3ee-f5e5-4d6a-9634-dab2abedb1a9.gif)
+<img src="https://user-images.githubusercontent.com/27746512/153491161-f1a6e3ee-f5e5-4d6a-9634-dab2abedb1a9.gif" width="50%" height="50%"/>
 
 ### How to Play:
 
