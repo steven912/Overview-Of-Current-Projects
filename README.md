@@ -15,7 +15,7 @@ A visual tour of the current projects I'm working on.
 
 ### Dev Description:
 
-  This game plays similar to Pokemon GO, with several small but solid changes. One, instead of an overworld map, the player generates encounter cards by walking that are then stored for the play to use whenever. Two, pokemon are 2D sprites instead of 3D models. These changes make the game doable on a small scale and allow the user to try to catch their pokemon whenever, instead of having to have their phone out all the time while their outside. That being said, encounters can be granted for anything, not just steps. It could be heart rate with fitbit integration, or days gone to the gym, or days sober, or diet met, etc.
+  This game plays similar to Pokemon GO, with several small but solid changes. One, instead of an overworld map, the player generates encounter cards by walking that are then stored for the play to use whenever. Two, pokemon are 2D sprites instead of 3D models. These changes make the game doable on a small scale and allow the user to try to catch their pokemon whenever, instead of having to have their phone out all the time while they're outside. That being said, encounters can be granted for anything, not just steps. It could be safe elevated heart rate tracked via fitbit integration, or days gone to the gym, or days sober, or days meeting their diet, etc.
 
 ### Influences:
 
