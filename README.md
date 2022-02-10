@@ -1,9 +1,6 @@
 # Overview Of Current Projects
 A visual tour of the current projects I'm working on.
 
-< pokemon go clone >
-
-
 ## Untitled Pokemon GO Clone
 ### Status: Super Early Prototype
 
@@ -25,7 +22,21 @@ A visual tour of the current projects I'm working on.
 
   - develop sophisticated prototype and further planning
 
-< bug wars >
+
+## Bug Wars
+### Status: On Hold
+
+
+<img src="https://user-images.githubusercontent.com/27746512/153460421-d892cf30-dc3a-4c08-b1af-bcced7f72837.gif" width="20%" height="10%"/>
+
+### How to Play:
+
+### Dev Description:
+
+### Influences:
+
+### Next Steps:
+
 
 < IPS >
 
