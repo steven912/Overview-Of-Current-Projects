@@ -13,7 +13,7 @@ A visual tour of the current projects I'm working on.
 
 ### How to Play:
 
-  The player controls a red ball in a 2D space. By dragging and releasing the ball, it launches in that direction. While launched, pressing down again makes the ball attempt to anchor to the wall, but only if an anchorable material is in front of the ball (in the gif, white parts are attachable). Lava chases the player and speeds up over time, and if it catches the player it's game over.
+  The player controls a red ball in a 2D space. By dragging and releasing the ball, it launches in that direction. While launched, pressing down again makes the ball attempt to anchor to the wall, but only if an anchorable material is in front of the ball (in the gif, white parts are attachable). Different prefab wall peices are spawned and despawned as the player rises so that no two playthroughs are ever the same. Lava chases the player and speeds up over time, and if it catches the player it's game over.
 
 ### Dev Description:
 
