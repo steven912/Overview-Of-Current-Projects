@@ -125,14 +125,18 @@ A visual tour of some projects I've worked on.
 
 -----
 
-### Games too Messy to Show:
+### Games too Messy/Incomplete/Corrupted to Show:
 
 #### StormBringer
 ##### Status: Complete Revamp Needed
 
+  This was done in an early version of unity and all the prefab assets were lost in it. Beyond that, it was my first attempt to make any type of AI, and I was a complete amateur when I started. Learned a lot about pathfinding amd state machines and tilesets, but honestly it was pretty disgusting code.
+
 
 #### Through The Page
 ##### Status: Early Prototype
+
+  My first serious attempt at making a game. It's a Binding of Isaac clone about a bee, and that's about all I had lol. I managed to get a character moving up and down and left and right before losing interest. 
 
 
 
