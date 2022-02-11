@@ -1,4 +1,8 @@
+<p align="center">
+    
 # Overview Of Current Projects
+</p>
+
 A visual tour of some projects I've worked on.
 
 ## Untitled Pokemon GO Clone
