@@ -35,11 +35,21 @@ A visual tour of some projects I've worked on.
 
 #### How to Play:
 
+  Take control of a brainbug fighting to find his queen that was kidnapped from him! Using psychic brain energy, brainbugs control insects around them into hives. Battle enemy brainbugs and their hives using mana-costing ability cards, distributing energy into FTL-like systems that give different benefits, and setting your own hive out to do battle! Includes a sophisticated charm system as well.
+
 #### Dev Description:
+
+  Probably my most developed project, but also suffering from scale creep and loss of vision/excitement. I spent so much time creating all these systems, and once they were created and the enxt step was to actually flesh them out with ideas, I got hit with something exactly like writer's block. There are just too many options infront of me of how the game could play, that I'm kind of paralyzed with indecision. Regardless, I'm proud of the progress of this game, as over the course of it I really felt I was becoming a significantly better developer. 
 
 #### Influences:
 
+  - FTL for the systems and broad crew dynamic in the summoning of bugs to fight for you
+  - Starship Troopers for the bug aesthetic
+  - Slay the Spire for the card influences
+
 #### Next Steps:
+
+  - Defining significant gameplay choices and doggedly persuing them, regardless of potentially waning enthusiasm levels
 
 -----
 
