@@ -30,6 +30,30 @@ A visual tour of some projects I've worked on.
 
 -----
 
+### Pirate FTL
+#### Status: On Hold
+
+<img src="https://user-images.githubusercontent.com/27746512/153533227-ca97d446-4f0d-4217-a213-dadff2899fda.gif" width="70%" height="70%"/>
+
+#### How to Play:
+
+  Take control of your ship and roam the high seas in this spiritual succesor of FTL! Command you crew and battle adverseries, but choose their fate carefully, because your actions will be remembered by them the next time you meet. Control your systems, manage your crew, and cycle through your cannons to defeat the enemy and claim their plunder!
+
+#### Dev Description:
+
+  This is meant to be an improved and modernized version of FTL, and its alright. I've almost completely remade base FTL, I'm only short the crew manning systems dynamic and the drone systems and shop menus, but everything else is solid if a little buggy. I completely redeemed myself AI and pathfinding wise from my earlier catastrophic attempts in games like Stormbringer, but I still made a mistake in building it like a pure tile map, when in reality the crews move through and stay in rooms, not specific tiles the user picks. That was a lack of foresight that I've since improved. Also, the UI and player clicking system in this game is very well done and thoroughly planned ahead, so good job me.
+
+#### Influences:
+
+  - FTL
+  - Shawdow of Mordor, for the rough rival inspiration
+
+#### Next Steps:
+
+  - Finish recreating FTL base mechanics 
+
+-----
+
 ### IPS: Intergalactic Parvel Service
 #### Status: Complete Code Revamp Needed
 
@@ -42,7 +66,7 @@ A visual tour of some projects I've worked on.
 
 #### Dev Description:
 
-  A game directly inspired by my experience working in a UPS store, the customer interactions I experienced, and the tasks I had to complete while working there. This was the first in-depth game I made, and its code reflects that, in that its a huge mess that I don't understand and, while it all worked at one point, would need to be completely redone. The general experiences of the game, the character and environment designs, and the story are all documeneted and IMO entertaining, so I would love to take another crack at this while being so much more experienced in coding (like knowing what a singleton is or how queues can be used lol).
+  A game directly inspired by my experience working in a UPS store, the customer interactions I experienced, and the tasks I had to complete while working there. This was the first in-depth game I made, and its code reflects that, in that its a huge mess that I don't understand and, while it all worked at one point, would need to be completely redone. The general experiences of the game, the character and environment designs, and the story are all documented and IMO entertaining, so I would love to take another crack at this while being so much more experienced in coding (like knowing what a singleton is or how queues can be used lol).
 
 #### Influences:
 
@@ -62,7 +86,7 @@ A visual tour of some projects I've worked on.
 
 #### How to Play:
 
-  The player controls a red ball in a 2D space. By dragging and releasing the ball, it launches in that direction. While launched, pressing down again makes the ball attempt to anchor to the wall, but only if an anchorable material is in front of the ball (in the gif, white parts are attachable). Different prefab wall peices are spawned and despawned as the player rises so that no two playthroughs are ever the same. Lava chases the player and speeds up over time, and if it catches the player it's game over.
+  The player controls a red ball in a 2D space. By dragging and releasing the ball, it launches in that direction. While launched, pressing down again makes the ball attempt to anchor to the wall, but only if an anchorable material is in front of the ball (in the gif, white parts are attachable). Different prefab wall peices are spawned and despawned as the player rises so that no two playthroughs are ever the same. Lava chases the player and accelerates over time, and if it catches the player it's game over.
 
 #### Dev Description:
 
@@ -102,31 +126,6 @@ A visual tour of some projects I've worked on.
 #### Next Steps:
   - Determine solution to trajectory aiming problem
   - Flesh out gameplay
-
------
-
-### Pirate FTL
-#### Status: On Hold
-
-<img src="https://user-images.githubusercontent.com/27746512/153533227-ca97d446-4f0d-4217-a213-dadff2899fda.gif" width="70%" height="70%"/>
-
-#### How to Play:
-
-  Take control of your ship and roam the high seas in this spiritual succesor of FTL! Command you crew and battle adverseries, but choose their fate carefully, because your actions will be remembered by them the next time you meet. Control your systems, manage your crew, and cycle through your cannons to defeat the enemy and claim their plunder!
-
-#### Dev Description:
-
-  This is meant to be an improved and modernized version of FTL, and its alright. I've almost completely remade base FTL, I'm only short the crew manning systems dynamic and the drone systems and shop menus, but everything else is solid if a little buggy. I completely redeemed myself AI and pathfinding wise from my earlier catastrophic attempts in games like Stormbringer, but I still made a mistake in building it like a pure tile map, when in reality the crews move through and stay in rooms, not specific tiles the user picks. That was a lack of foresight that I've since improved. Also, the UI and player clicking system in this game is very well done and thoroughly planned ahead, so good job me.
-
-#### Influences:
-
-  - FTL
-  - Shawdow of Mordor, for the rough rival inspiration
-
-#### Next Steps:
-
-  - Finish recreating FTL base mechanics 
-
 
 ------
 
