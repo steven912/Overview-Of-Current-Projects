@@ -27,7 +27,7 @@ A visual tour of the current projects I'm working on.
 ### Status: On Hold
 
 
-<img src="https://user-images.githubusercontent.com/27746512/153512879-7962edbd-6b42-48e9-83d7-28b0f60c9d6b.gif" width="80%" height="80%"/>
+<img src="https://user-images.githubusercontent.com/27746512/153512879-7962edbd-6b42-48e9-83d7-28b0f60c9d6b.gif" width="50%" height="50%"/>
 
 ### How to Play:
 
@@ -104,7 +104,20 @@ A visual tour of the current projects I'm working on.
 
 
 
-< FTL clone >
+## Pirate FTL
+
+
+<img src="https://user-images.githubusercontent.com/27746512/153533227-ca97d446-4f0d-4217-a213-dadff2899fda.gif" width="50%" height="50%"/>
+
+### How to Play:
+
+### Dev Description:
+
+### Influences:
+
+### Next Steps:
+
+
 
 < Through the Page >
   
