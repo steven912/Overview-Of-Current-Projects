@@ -2,29 +2,6 @@
 
 A visual tour of some projects I've worked on.
 
-------
-
-### Untitled Pokemon GO Clone
-#### Status: Super Early Prototype
-
-<img src="https://user-images.githubusercontent.com/27746512/153491161-f1a6e3ee-f5e5-4d6a-9634-dab2abedb1a9.gif" width="50%" height="50%"/>
-
-#### How to Play:
-
-  Walking around gives the player storable encounters with pokemon, that when pressed allows the players to try and catch the pokemon to have in their inventory.
-
-#### Dev Description:
-
-  This game plays similar to Pokemon GO, with several small but solid changes. One, instead of an overworld map, the player generates encounter cards by walking that are then stored for the play to use whenever. Two, pokemon are 2D sprites instead of 3D models. These changes make the game doable on a small scale and allow the user to try to catch their pokemon whenever, instead of having to have their phone out all the time while they're outside. That being said, encounters can be granted for anything, not just steps. It could be safe elevated heart rate tracked via fitbit integration, or days gone to the gym, or days sober, or days meeting their diet, etc.
-
-#### Influences:
-
-  - Pokemon GO
-
-#### Next Steps:
-
-  - Develop sophisticated prototype and further planning
-
 -----
 
 ### Bug Wars
@@ -39,7 +16,7 @@ A visual tour of some projects I've worked on.
 
 #### Dev Description:
 
-  Probably my most developed project, but also suffering from scale creep and loss of vision/excitement. I spent so much time creating all these systems, and once they were created and the enxt step was to actually flesh them out with ideas, I got hit with something exactly like writer's block. There are just too many options infront of me of how the game could play, that I'm kind of paralyzed with indecision. Regardless, I'm proud of the progress of this game, as over the course of it I really felt I was becoming a significantly better developer. 
+  Probably my most developed project, but also suffering from scale creep and loss of vision/excitement. I spent so much time creating all these systems, and once they were created and the next step was to actually flesh them out with ideas, I got hit with something exactly like writer's block. There are just too many options infront of me of how the game could play, that I'm kind of paralyzed with indecision. Regardless, I'm proud of the progress of this game, as over the course of it I really felt I was becoming a significantly better developer. 
 
 #### Influences:
 
@@ -149,6 +126,31 @@ A visual tour of some projects I've worked on.
 #### Next Steps:
 
   - Finish recreating FTL base mechanics 
+
+
+------
+
+### Untitled Pokemon GO Clone
+#### Status: Super Early Prototype
+
+<img src="https://user-images.githubusercontent.com/27746512/153491161-f1a6e3ee-f5e5-4d6a-9634-dab2abedb1a9.gif" width="50%" height="50%"/>
+
+#### How to Play:
+
+  Walking around gives the player storable encounters with pokemon, that when pressed allows the players to try and catch the pokemon to have in their inventory.
+
+#### Dev Description:
+
+  This game plays similar to Pokemon GO, with several small but solid changes. One, instead of an overworld map, the player generates encounter cards by walking that are then stored for the play to use whenever. Two, pokemon are 2D sprites instead of 3D models. These changes make the game doable on a small scale and allow the user to try to catch their pokemon whenever, instead of having to have their phone out all the time while they're outside. That being said, encounters can be granted for anything, not just steps. It could be safe elevated heart rate tracked via fitbit integration, or days gone to the gym, or days sober, or days meeting their diet, etc.
+
+#### Influences:
+
+  - Pokemon GO
+
+#### Next Steps:
+
+  - Develop sophisticated prototype and further planning
+
 
 -----
 
