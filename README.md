@@ -22,6 +22,7 @@ A visual tour of some projects I've worked on.
 
   - develop sophisticated prototype and further planning
 
+-----
 
 ## Bug Wars
 ### Status: On Hold
