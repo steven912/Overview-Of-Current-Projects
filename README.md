@@ -2,8 +2,8 @@
 
 A visual tour of some projects I've worked on.
 
-## Untitled Pokemon GO Clone
-### Status: Super Early Prototype
+### Untitled Pokemon GO Clone
+#### Status: Super Early Prototype
 
 <img src="https://user-images.githubusercontent.com/27746512/153491161-f1a6e3ee-f5e5-4d6a-9634-dab2abedb1a9.gif" width="50%" height="50%"/>
 
