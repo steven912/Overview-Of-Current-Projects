@@ -39,6 +39,7 @@ A visual tour of some projects I've worked on.
 
 
 ## IPS: Intergalactic Parvel Service
+### Status: Complete Code Revamp Needed
 
 
 <img src="https://user-images.githubusercontent.com/27746512/153536266-096188fc-40b4-4254-90b4-06003830adf3.gif" width="70%" height="70%"/>
@@ -102,6 +103,7 @@ A visual tour of some projects I've worked on.
 
 
 ## Pirate FTL
+### Status: On Hold
 
 
 <img src="https://user-images.githubusercontent.com/27746512/153533227-ca97d446-4f0d-4217-a213-dadff2899fda.gif" width="70%" height="70%"/>
@@ -117,7 +119,11 @@ A visual tour of some projects I've worked on.
 ## Games yoo Messy to Show:
 
 ### StormBringer
+### Status: Complete Revamp Needed
+
 
 ### Through The Page
+### Status: Early Prototype
+
 
 
