@@ -1,6 +1,4 @@
-<p align="center">
-    # Overview Of Current Projects
-</p>
+# Overview Of Current Projects
 
 A visual tour of some projects I've worked on.
 
