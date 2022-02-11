@@ -41,7 +41,7 @@ A visual tour of the current projects I'm working on.
 ## IPS: Intergalactic Parvel Service
 
 
-<img src="https://user-images.githubusercontent.com/27746512/153460421-d892cf30-dc3a-4c08-b1af-bcced7f72837.gif" width="20%" height="10%"/>
+<img src="https://user-images.githubusercontent.com/27746512/153536266-096188fc-40b4-4254-90b4-06003830adf3.gif" width="50%" height="50%"/>
 
 ### How to Play:
 
