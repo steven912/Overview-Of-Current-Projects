@@ -16,7 +16,7 @@ A visual tour of some projects I've worked on.
 
 #### Dev Description:
 
-  Probably my most developed project, but also suffering from scale creep and loss of vision/excitement. I spent so much time creating all these systems, and once they were created and the next step was to flesh them out with ideas, I got hit with something exactly like writer's block. There are just too many options in front of me of how the game could play, that I'm kind of paralyzed with indecision. Regardless, I'm proud of the progress of this game, as over the course of it I really felt I was becoming a significantly better developer. 
+  Probably my most developed project, but also suffering from scale creep and loss of vision/excitement. I spent so much time creating all these systems, that once they were created and the next step was to flesh them out with ideas, I got hit with something exactly like writer's block. There are just so many options in front of me as to how the game could play, that I'm paralyzed with indecision. Regardless, I'm proud of the progress of this game, as over the course of it I became a significantly better developer. 
 
 #### Influences:
 
@@ -26,7 +26,7 @@ A visual tour of some projects I've worked on.
 
 #### Next Steps:
 
-  - Defining significant gameplay choices and doggedly pursuing them, regardless of potentially waning enthusiasm levels
+  - Defining significant gameplay choices and doggedly pursuing them, regardless of potentially waning enthusiasm
 
 -----
 
@@ -37,11 +37,11 @@ A visual tour of some projects I've worked on.
 
 #### How to Play:
 
-  Take control of your ship and roam the high seas in this spiritual successor of FTL! Command you crew and battle adversaries, but choose their fate carefully, because your actions will be remembered by them the next time you meet. Control your systems, manage your crew, and cycle through your cannons to defeat the enemy and claim their plunder!
+  Take control of your ship and roam the high seas in this spiritual successor of FTL! Command your crew and battle adversaries, but choose their fate carefully, because your actions will be remembered by them the next time you meet. Control your systems, manage your crew, and cycle through your cannons to defeat the enemy and claim their plunder!
 
 #### Dev Description:
 
-  This is meant to be an improved and modernized version of FTL, and its alright. I've almost completely remade base FTL, I'm only short the crew manning systems dynamic and the drone systems and shop menus, but everything else is solid if a little buggy. I completely redeemed myself AI and pathfinding wise from my earlier catastrophic attempts in games like Stormbringer, but I still made a mistake in building it like a pure tile map, when in reality the crews move through and stay in rooms, not specific tiles the user picks. That was a lack of foresight that I've since improved. Also, the UI and player clicking system in this game is very well done and thoroughly planned, so good job me.
+  This is meant to be an improved and modernized version of FTL, and it's alright. I've almost completely remade base FTL, I'm only short the crew manning systems dynamic and the drone systems and shop menus, but everything else is solid if a little buggy. I completely redeemed myself AI and pathfinding wise from my earlier catastrophic attempts in games like Stormbringer (discussed later), but I still made a mistake in building it like a pure tile map, when in reality the crews move through and stay in rooms, not specific tiles the user picks. That was a lack of foresight that I've since improved. Contrasted to that, the UI and player clicking system in this game was thoroughly planned and cleanly executed.
 
 #### Influences:
 
@@ -66,7 +66,7 @@ A visual tour of some projects I've worked on.
 
 #### Dev Description:
 
-  A game directly inspired by my experience working in a UPS store, the customer interactions I experienced, and the tasks I had to complete while working there. This was the first in-depth game I made, and its code reflects that, in that it’s a huge mess that I don't understand and, while it all worked at one point, would need to be completely redone. The general experiences of the game, the character and environment designs, and the story are all documented and IMO entertaining, so I would love to take another crack at this while being so much more experienced in coding (like knowing what a singleton is or how queues can be used lol).
+  A game directly inspired by my experience working in a UPS store, the customer interactions I experienced, and the tasks I had to complete while working there. This was the first in-depth game I made, and its code reflects that, in that it’s a huge mess that I don't understand and, while it all worked at one point, would need to be completely redone. The general experiences of the game, the character and environment designs, and the story are all documented and entertaining, so I would love to take another crack at this while being so much more experienced in coding (like knowing what a singleton is or that queues are more than what british people call lines).
 
 #### Influences:
 
@@ -86,11 +86,11 @@ A visual tour of some projects I've worked on.
 
 #### How to Play:
 
-  The player controls a red ball in a 2D space. By dragging and releasing the ball, it launches in that direction. While launched, pressing down again makes the ball attempt to anchor to the wall, but only if an anchorable material is in front of the ball (in the gif, white parts are attachable). Different prefab wall sections are spawned and de-spawned as the player rises so that no two playthroughs are ever the same. Lava chases the player and accelerates over time, and if it catches the player it's game over.
+  The player controls a red ball in a 2D space. Dragging and releasing the ball launches in that direction. Once launched, pressing down again makes the ball attempt to anchor to the wall, but only if an anchorable material is in front of the ball (in the gif, white parts are attachable). Different prefab wall sections are spawned and de-spawned as the player rises so that no two playthroughs are ever the same. Lava chases the player and accelerates over time, and if it catches the player it's game over.
 
 #### Dev Description:
 
-  I made this for Intro to Gamedev's second prototype project. I aimed to make a simple, fun, and quick mobile game that the user could pick up and put down easily. I think I achieved that goal, as all the reviews I received from friends and family were similar to that aim (without me letting them know what my goal was).
+  I made this for Intro to Gamedev's second prototype project. I aimed to make a simple, fun, and quick mobile game that the user could pick up and put down easily. Reviews from my friends and family indicated that I achieved exactly that goal.
 
 #### Influences:
 
@@ -116,12 +116,12 @@ A visual tour of some projects I've worked on.
 
 #### Dev Description:
 
-  My goal for this was to make a heartier mobile game. I tried to make it still quick and easy to stop and start, but at the same time have more meat than a game like Shape Escape.  I think the base is pretty solid, with the only problem being that the way I have gravity fields coded right now feels... not clunky but inexact? Wemms when shot through a gravity field feel random in their trajectory, which isn't satisfying. A potential solution is to project their movement via some kind of line render, but I don't know how to get the lines to simulate physics effects without absolutely tanking the performance of the game. Awkward situation!
+  My goal for this was to make a heartier mobile game. I tried to make it still quick and easy to stop and start, but at the same time have more meat than a game like Shape Escape.  I think the base is pretty solid, with the only problem being that the way I have gravity fields coded right now feels... not clunky but inexact? Wemms when shot through a gravity field seem random in their trajectory, which isn't satisfying. A potential solution is to project their movement via some kind of line render, but I don't know how to get the lines to simulate physics effects without absolutely tanking the performance of the game. Awkward situation!
 
 #### Influences:
 
   - Mario Galaxy for the gravity and space themes
-  - Angry Birds (or the medieval flash game its based on) for the launching of Wemms and limited tries and level layouts 
+  - Angry Birds (or the medieval flash game it's based on) for the launching of Wemms and limited tries and level layouts 
   
 #### Next Steps:
   - Determine solution to trajectory aiming problem
@@ -136,7 +136,7 @@ A visual tour of some projects I've worked on.
 
 #### How to Play:
 
-  Walking around gives the player storable encounters with Pokémon, that when pressed allows the players to try and catch the Pokémon to have in their inventory.
+  Walking around gives the player storable encounter cards with Pokémon, that when pressed allows the players to try and catch the Pokémon to have in their inventory.
 
 #### Dev Description:
 
