@@ -29,7 +29,7 @@ A visual tour of some projects I've worked on.
 
 #### Dev Description:
 
-  This is meant to be an improved and modernized version of FTL, and it's alright. I've almost completely remade base FTL, I'm only short the crew manning systems dynamic and the drone systems and shop menus, but everything else is solid if a little buggy. I completely redeemed myself AI and pathfinding wise from my earlier catastrophic attempts in games like Stormbringer (discussed later), but I still made a mistake in building it like a pure tile map, when in reality the crews move through and stay in rooms, not specific tiles the user picks. That was a lack of foresight that I've since improved. Contrasted to that, the UI and player clicking system in this game was thoroughly planned and cleanly executed.
+  This is meant to be an improved and modernized version of FTL, and it's alright. I've almost completely remade base FTL, I'm only short the crew manning systems dynamic and the drone systems and shop menus, but everything else is solid if a little buggy. I completely redeemed myself AI and pathfinding wise from my earlier catastrophic attempts in previous prototypes, but I still made a mistake in building it like a pure tile map, when in reality the crews move through and stay in rooms, not specific tiles the user picks. That was a lack of foresight that I've since improved. Contrasted to that, the UI and player clicking system in this game was thoroughly planned and cleanly executed.
 
 
 -----
